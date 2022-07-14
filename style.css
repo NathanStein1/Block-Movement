@@ -1,0 +1,43 @@
+#div1 {
+    width: 350px;
+    height: 70px;
+    padding: 10px;
+    border: 1px solid #aaaaaa;
+  }
+
+  #div2 {
+    width: 350px;
+    height: 70px;
+    padding: 10px;
+    border: 1px solid #aaaaaa;
+  }
+
+  #div3 {
+    width: 350px;
+    height: 70px;
+    padding: 10px;
+    border: 1px solid #aaaaaa;
+  }
+
+  #drag1 {
+    width: 350px;
+    height: 70px;
+    
+    border: 1px solid #aaaaaa;
+    background-color: rgb(56, 80, 212);
+  }
+
+  #drag2 {
+    width: 350px;
+    height: 70px;
+    
+    border: 1px solid #aaaaaa;
+    background-color: rebeccapurple;
+  }
+
+  #drag3 {
+    width: 350px;
+    height: 70px;
+    border: 1px solid #aaaaaa;
+    background-color: rgb(153, 83, 51);
+  }

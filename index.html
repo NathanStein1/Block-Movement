@@ -1,0 +1,32 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+
+<p>Drag to the correct order and enter</p>
+<div>
+<div id="div1" data-num="1" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+<br>
+<div id="div2" data-num="2" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+<br>
+
+<div id="div3" data-num="3" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+</div>
+<br>
+
+<div>
+<div id="drag1" data-num="1" draggable="true" ondragstart="drag(event)" width="336" height="69">LET</div>
+<div id="drag2" data-num="2" draggable="true" ondragstart="drag(event)" width="336" height="69">ME</div>
+<div id="drag3" data-num="3" draggable="true" ondragstart="drag(event)" width="336" height="69">IN</div>
+</div>
+
+<div class="blah"></div>
+<div class="tinkle"></div>
+
+</body>
+<script src="./script.js"></script>
+</html>
+
